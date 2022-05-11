@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Back-End** na <a href="https://www.windel.com.br/">Windel Sistemas</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Back-End** na <a href="https://www.windel.com.br/" target="_blank">Windel Sistemas</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Node/Nest/Prisma**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -67,6 +67,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Garcia](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-garcia-378075174/)]https://www.linkedin.com/in/lucas-garcia-378075174/
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgarciadesenvolvedor@gmail.com)](mailto:lucasgarciadesenvolvedor@gmail.com)
+[![Linkedin: Lucas Garcia](https://img.shields.io/badge/-lucasgarcia378075174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-garcia-378075174/)]https://www.linkedin.com/in/lucas-garcia-378075174/
+[![Gmail Badge](https://img.shields.io/badge/-lucasgarciadesenvolvedor@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgarciadesenvolvedor@gmail.com)](mailto:lucasgarciadesenvolvedor@gmail.com)
 [![GitHub Lucas Garcia]( https://img.shields.io/github/followers/lucasgarcia98?label=follow&style=social)](https://github.com/lucasgarcia98)
