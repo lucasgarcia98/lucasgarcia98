@@ -67,6 +67,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lucas Garcia](https://img.shields.io/badge/-lucasgarcia378075174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-garcia-378075174/)]https://www.linkedin.com/in/lucas-garcia-378075174/
+[![Linkedin Lucas Garcia](https://img.shields.io/badge/-lucasgarcia378075174-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-garcia-378075174/)](https://www.linkedin.com/in/lucas-garcia-378075174/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasgarciadesenvolvedor@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgarciadesenvolvedor@gmail.com)](mailto:lucasgarciadesenvolvedor@gmail.com)
 [![GitHub Lucas Garcia]( https://img.shields.io/github/followers/lucasgarcia98?label=follow&style=social)](https://github.com/lucasgarcia98)
