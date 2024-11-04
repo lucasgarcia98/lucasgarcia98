@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Back-End** na <a href="https://www.windel.com.br/" target="_blank">Windel Sistemas</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Node/Nest/Prisma**.
+- 🌱 &nbsp; Aprendendo mais sobre **IA Generativa/React Native/MongoDB/Mongoose**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
