@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Back-End** na <a href="https://www.windel.com.br/" target="_blank">Windel Sistemas</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack**
 - 🌱 &nbsp; Aprendendo mais sobre **IA Generativa/React Native/MongoDB/Mongoose**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -56,7 +56,8 @@
   
 **Educação**
 
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- Técnico em Informática.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 <br/>
 
